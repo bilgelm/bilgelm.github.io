@@ -1,1 +1,19 @@
-Hello World
+<!DOCTYPE html>
+<html>
+    <body>
+        Hello World!
+        <div style="margin:5px;">
+            <iframe id="nestedIFrame" src="http://bilgelm.shinyapps.io/abstract_wordcloud" width="100%" frameBorder="0" scrolling="no"></iframe>
+        </div>
+
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+        <script type="text/javascript" src="https://github.com/davidjbradshaw/iframe-resizer/blob/master/js/ie8.polyfils.min.js"></script>
+        <script type="text/javascript" src="https://github.com/davidjbradshaw/iframe-resizer/blob/master/js/iframeResizer.min.js"></script>
+        <script type="text/javascript">
+
+             iFrameResize({heightCalculationMethod: "lowestElement"});
+
+        </script>
+
+    </body>
+</html>
