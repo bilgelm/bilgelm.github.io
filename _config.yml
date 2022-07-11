@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Murat Bilgel"
 title_separator          : "-"
 name                     : &name "Murat Bilgel"
-description              : &description "personal description"
+description              : &description "Research website"
 url                      : https://bilgelm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bilgelm/bilgelm.github.io"
@@ -83,12 +83,12 @@ author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Baltimore, MD, USA"
   employer         :
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Bilgel%2C+Murat%5BAuthor%5D&sort="
-  googlescholar    : "https://scholar.google.com/citations?user=mB3AMKcAAAAJ&hl=en&oi=ao"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Bilgel%2C+Murat%5BAuthor%5D"
+  googlescholar    : "https://scholar.google.com/citations?user=mB3AMKcAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Murat-Bilgel-2" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-5042-7422"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
