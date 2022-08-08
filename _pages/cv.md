@@ -16,16 +16,7 @@ Education
 * B.S. in Biomedical Engineering, Johns Hopkins University School of Engineering, Baltimore, MD. 2011
 * Ph.D in Biomedical Engineering, Johns Hopkins University School of Medicine, Baltimore, MD. 2016
 
-Work Experience
+Current Position
 ======
 * 2018 - present: Staff Scientist
-  * Laboratory of Behavioral Neuroscience, National Institute on Aging, NIH
-
-* 2016 - 2018: Research Fellow
-  * Laboratory of Behavioral Neuroscience, National Institute on Aging, NIH
-
-* 2016: Post-doctoral Fellow
-  * Laboratory of Behavioral Neuroscience, National Institute on Aging, NIH
-
-* 2012 - 2016: Pre-doctoral Fellow
   * Laboratory of Behavioral Neuroscience, National Institute on Aging, NIH
