@@ -18,5 +18,10 @@ Education
 
 Current Position
 ======
-* 2018 - present: Staff Scientist
+* 2022 - present: Associate Scientist
+  * Laboratory of Behavioral Neuroscience, National Institute on Aging, NIH
+
+Previous Positions
+======
+* 2018 - 2022: Staff Scientist
   * Laboratory of Behavioral Neuroscience, National Institute on Aging, NIH

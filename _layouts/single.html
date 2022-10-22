@@ -44,9 +44,11 @@ layout: default
         
              
         {% if page.citation and page.paperurl %}
-          <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
+          <p>
+            <a href="{{ page.paperurl }}">{{ page.citation }}</a> <span data-badge-popover="top" data-badge-type="1" data-doi="{{ page.doi }}" data-hide-no-mentions="true" class="altmetric-embed"></span>
+          </p>
         {% elsif page.citation %}
-          <p>Recommended citation: {{ page.citation }} </p>
+          <p>{{ page.citation }} </p>
         {% endif %}
     
         </header>
