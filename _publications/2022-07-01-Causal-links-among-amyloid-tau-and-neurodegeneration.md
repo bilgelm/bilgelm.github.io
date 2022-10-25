@@ -3,7 +3,7 @@ title: "Causal links among amyloid, tau, and neurodegeneration"
 collection: publications
 permalink: /publication/2022-07-01-Causal-links-among-amyloid-tau-and-neurodegeneration
 date: 2022-07-01
-venue: 'medRxiv'
+venue: 'Brain Communications'
 paperurl: 'https://doi.org/10.1093/braincomms/fcac193'
 citation: ' Murat Bilgel,  Dean Wong,  Abhay Moghekar,  Luigi Ferrucci,  Susan Resnick,  Alzheimer’s Disease Neuroimaging Initiative, &quot;Causal links among amyloid, tau, and neurodegeneration.&quot; Brain Communications, 2022.'
 doi: 10.1093/braincomms/fcac193
