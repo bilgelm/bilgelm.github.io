@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2022-01-01-NiMARE-Neuroimaging-Meta-Analysis-Research-Environment
 date: 2022-01-01
 venue: 'NeuroLibre Reproducible Preprint Server'
+paperurl: 'https://neurolibre.org/papers/10.55458/neurolibre.00007'
 citation: ' Taylor Salo,  Tal Yarkoni,  Thomas Nichols,  Jean-Baptiste Poline,  Murat Bilgel,  Katherine Bottenhorn,  Dorota Jarecka,  James Kent,  Adam Kimbler,  Dylan Nielson,  Kendra Oudyk,  Julio Peraza,  Alexandre Pérez,  Puck Reeders,  Julio Yanes,  Angela Laird, &quot;NiMARE: Neuroimaging Meta-Analysis Research Environment.&quot; NeuroLibre Reproducible Preprint Server, 2022.'
 doi: 10.55458/neurolibre.00007
 ---
