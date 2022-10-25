@@ -1,0 +1,18 @@
+---
+title: "Causal links among amyloid, tau, and neurodegeneration"
+collection: publications
+permalink: /publication/2022-07-01-Causal-links-among-amyloid-tau-and-neurodegeneration
+date: 2022-07-01
+venue: 'medRxiv'
+paperurl: 'https://doi.org/10.1093/braincomms/fcac193'
+citation: ' Murat Bilgel,  Dean Wong,  Abhay Moghekar,  Luigi Ferrucci,  Susan Resnick,  Alzheimer’s Disease Neuroimaging Initiative, &quot;Causal links among amyloid, tau, and neurodegeneration.&quot; Brain Communications, 2022.'
+doi: 10.1093/braincomms/fcac193
+tags:
+  - positron emission tomography
+  - magnetic resonance imaging
+  - Baltimore Longitudinal Study of Aging
+---
+
+Amyloid-β pathology is associated with greater tau pathology and facilitates tau propagation from the medial temporal lobe to the neocortex, where tau is closely associated with local neurodegeneration. The degree of the involvement of amyloid-β versus existing tau pathology in tau propagation and neurodegeneration has not been fully elucidated in human studies. Careful quantification of these effects can inform the development and timing of therapeutic interventions. We conducted causal mediation analyses to investigate the relative contributions of amyloid-β and existing tau to tau propagation and neurodegeneration in two longitudinal studies of individuals without dementia: the Baltimore Longitudinal Study of Aging (N = 103, age range 57–96) and the Alzheimer’s Disease Neuroimaging Initiative (N = 122, age range 56–92). As proxies of neurodegeneration, we investigated cerebral blood flow, glucose metabolism, and regional volume. We first confirmed that amyloid-β moderates the association between tau in the entorhinal cortex and in the inferior temporal gyrus, a neocortical region exhibiting early tau pathology (amyloid group × entorhinal tau interaction term β = 0.488, standard error [SE] = 0.126, P < 0.001 in the Baltimore Longitudinal Study of Aging; β = 0.619, SE = 0.145, P < 0.001 in the Alzheimer’s Disease Neuroimaging Initiative). In causal mediation analyses accounting for this facilitating effect of amyloid, amyloid positivity had a statistically significant direct effect on inferior temporal tau as well as an indirect effect via entorhinal tau (average direct effect =0.47, P < 0.001 and average causal mediation effect =0.44, P = 0.0028 in Baltimore Longitudinal Study of Aging; average direct effect =0.43, P = 0.004 and average causal mediation effect = 0.267, P = 0.0088 in Alzheimer’s Disease Neuroimaging Initiative). Entorhinal tau mediated up to 48% of the total effect of amyloid on inferior temporal tau. Higher inferior temporal tau was associated with lower colocalized cerebral blood flow, glucose metabolism, and regional volume, whereas amyloid had only an indirect effect on these measures via tau, implying tau as the primary driver of neurodegeneration (amyloid–cerebral blood flow average causal mediation effect = −0.28, P = 0.021 in Baltimore Longitudinal Study of Aging; amyloid–volume average causal mediation effect = −0.24, P < 0.001 in Alzheimer’s Disease Neuroimaging Initiative). Our findings suggest targeting amyloid or medial temporal lobe tau might slow down neocortical spread of tau and subsequent neurodegeneration, but a combination therapy may yield better outcomes.
+
+[Access paper here](https://doi.org/10.1093/braincomms/fcac193){:target="_blank"}
