@@ -13,12 +13,14 @@ tags:
   - Baltimore Longitudinal Study of Aging
 ---
 
-Introduction: Relationships between brain atrophy patterns of typical aging and Alzheimer's disease (AD), white matter disease, cognition, and AD neuropathology were investigated via machine learning in a large harmonized magnetic resonance imaging database (11 studies; 10,216 subjects).
+### Abstract
 
-Methods: Three brain signatures were calculated: Brain-age, AD-like neurodegeneration, and white matter hyperintensities (WMHs). Brain Charts measured and displayed the relationships of these signatures to cognition and molecular biomarkers of AD.
+**Introduction:** Relationships between brain atrophy patterns of typical aging and Alzheimer's disease (AD), white matter disease, cognition, and AD neuropathology were investigated via machine learning in a large harmonized magnetic resonance imaging database (11 studies; 10,216 subjects).
 
-Results: WMHs were associated with advanced brain aging, AD-like atrophy, poorer cognition, and AD neuropathology in mild cognitive impairment (MCI)/AD and cognitively normal (CN) subjects. High WMH volume was associated with brain aging and cognitive decline occurring in an ≈10-year period in CN subjects. WMHs were associated with doubling the likelihood of amyloid beta (Aβ) positivity after age 65. Brain aging, AD-like atrophy, and WMHs were better predictors of cognition than chronological age in MCI/AD.
+**Methods:** Three brain signatures were calculated: Brain-age, AD-like neurodegeneration, and white matter hyperintensities (WMHs). Brain Charts measured and displayed the relationships of these signatures to cognition and molecular biomarkers of AD.
 
-Discussion: A Brain Chart quantifying brain-aging trajectories was established, enabling the systematic evaluation of individuals' brain-aging patterns relative to this large consortium.
+**Results:** WMHs were associated with advanced brain aging, AD-like atrophy, poorer cognition, and AD neuropathology in mild cognitive impairment (MCI)/AD and cognitively normal (CN) subjects. High WMH volume was associated with brain aging and cognitive decline occurring in an ≈10-year period in CN subjects. WMHs were associated with doubling the likelihood of amyloid beta (Aβ) positivity after age 65. Brain aging, AD-like atrophy, and WMHs were better predictors of cognition than chronological age in MCI/AD.
+
+**Discussion:** A Brain Chart quantifying brain-aging trajectories was established, enabling the systematic evaluation of individuals' brain-aging patterns relative to this large consortium.
 
 [Access paper here](https://onlinelibrary.wiley.com/doi/10.1002/alz.12178){:target="_blank"}

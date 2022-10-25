@@ -46,7 +46,7 @@ layout: default
         {% if page.citation and page.paperurl %}
           <p>
             <a href="{{ page.paperurl }}">{{ page.citation }}</a> <br><br>
-            <span class="__dimensions_badge_embed__" data-doi="{{ page.doi }}" data-hide-zero-citations="true" data-legend="always" data-style="small_circle"></span>
+            <span class="__dimensions_badge_embed__" data-doi="{{ page.doi }}" data-hide-zero-citations="true" data-legend="always" data-style="small_circle"></span> <br>
             <span data-badge-details="right" data-badge-type="donut" data-doi="{{ page.doi }}" data-hide-no-mentions="true" class="altmetric-embed"></span>
           </p>
         {% elsif page.citation %}
