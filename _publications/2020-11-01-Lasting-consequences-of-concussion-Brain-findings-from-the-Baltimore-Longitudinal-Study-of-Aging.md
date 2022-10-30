@@ -1,0 +1,16 @@
+---
+title: "Lasting consequences of concussion: Brain findings from the Baltimore Longitudinal Study of Aging"
+collection: publications
+permalink: /publication/2020-11-01-Lasting-consequences-of-concussion-Brain-findings-from-the-Baltimore-Longitudinal-Study-of-Aging
+date: 2020-10-01
+venue: 'NeuroImage'
+paperurl: 'https://doi.org/10.1016/j.neuroimage.2020.117182'
+citation: ' Danielle June,  Owen Williams,  Chiung-Wei Huang,  Yang An,  Bennett Landman,  Christos Davatzikos,  Murat Bilgel,  Susan Resnick,  Lori Beason-Held, &quot;Lasting consequences of concussion: Brain findings from the Baltimore Longitudinal Study of Aging.&quot; NeuroImage, 2020.'
+doi: 10.1016/j.neuroimage.2020.117182
+---
+
+### Abstract
+
+Studies suggest that concussions may be related to increased risk of neurodegenerative diseases, such as Chronic Traumatic Encephalopathy and Alzheimer's Disease. Most neuroimaging studies show effects of concussions in frontal and temporal lobes of the brain, yet the long-term impacts of concussions on the aging brain have not been well studied. We examined neuroimaging data from 51 participants (mean age at first imaging visit=65.1 ± 11.23) in the Baltimore Longitudinal Study of Aging (BLSA) who reported a concussion in their medical history an average of 23 years prior to the first imaging visit, and compared them to 150 participants (mean age at first imaging visit=66.6 ± 10.97) with no history of concussion. Participants underwent serial structural MRI over a mean of 5.17±6.14 years and DTI over a mean of 2.92±2.22 years to measure brain structure, as well as 15O-water PET over a mean of 5.33±2.19 years to measure brain function. A battery of neuropsychological tests was also administered over a mean of 11.62±7.41 years. Analyses of frontal and temporal lobe regions were performed to examine differences in these measures between the concussion and control groups at first imaging visit and in change over time. Compared to those without concussion, participants with a prior concussion had greater brain atrophy in temporal lobe white matter and hippocampus at first imaging visit, which remained stable throughout the follow-up visits. Those with prior concussion also showed differences in white matter microstructure using DTI, including increased radial and axial diffusivity in the fornix/stria terminalis, anterior corona radiata, and superior longitudinal fasciculus at first imaging visit. In 15O-water PET, higher resting cerebral blood flow was seen at first imaging visit in orbitofrontal and lateral temporal regions, and both increases and decreases were seen in prefrontal, cingulate, insular, hippocampal, and ventral temporal regions with longitudinal follow-up. There were no significant differences in neuropsychological performance between groups. Most of the differences observed between the concussed and non-concussed groups were seen at the first imaging visit, suggesting that concussions can produce long-lasting structural and functional alterations in temporal and frontal regions of the brain in older individuals. These results also suggest that many of the reported short-term effects of concussion may still be apparent later in life.
+
+[Access paper here](https://doi.org/10.1016/j.neuroimage.2020.117182){:target="_blank"}

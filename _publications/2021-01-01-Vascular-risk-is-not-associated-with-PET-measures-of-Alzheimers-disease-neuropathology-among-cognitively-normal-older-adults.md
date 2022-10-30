@@ -7,11 +7,9 @@ venue: 'Neuroimage: Reports'
 paperurl: 'https://doi.org/10.1016/j.ynirp.2021.100068'
 citation: ' Murat Bilgel,  Alisa Bannerjee,  Andrea Shafer,  Yang An,  Susan Resnick, &quot;Vascular risk is not associated with PET measures of Alzheimer&amp;apos;s disease neuropathology among cognitively normal older adults.&quot; Neuroimage: Reports, 2021.'
 doi: 10.1016/j.ynirp.2021.100068
-tags:
-  - magnetic resonance imaging
-  - positron emission tomography
-  - Baltimore Longitudinal Study of Aging
 ---
+
+### Abstract
 
 Cardiovascular disease (CVD) is associated with a higher risk of developing dementia. Studies have found that vascular risk factors are associated with greater amyloid-β (Aβ) and tau burden, which are hallmark neuropathologies of Alzheimer's disease (AD). Evidence for these associations during the preclinical stages of AD, when Aβ and tau pathologies first become detectable, is mixed. Quantifying the effect of vascular risk among cognitively normal individuals can help focus the efforts to develop therapeutic approaches aimed at modifying the course of preclinical AD.
 

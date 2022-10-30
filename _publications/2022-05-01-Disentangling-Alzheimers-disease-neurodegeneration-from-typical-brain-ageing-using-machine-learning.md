@@ -7,12 +7,9 @@ venue: 'Brain Communications'
 paperurl: 'https://academic.oup.com/braincomms/article/doi/10.1093/braincomms/fcac117/6582261'
 citation: ' Gyujoon Hwang,  Ahmed Abdulkadir,  Guray Erus,  Mohamad Habes,  Raymond Pomponio,  Haochang Shou,  Jimit Doshi,  Elizabeth Mamourian,  Tanweer Rashid,  Murat Bilgel,  Yong Fan,  Aristeidis Sotiras,  Dhivya Srinivasan,  John Morris,  Marilyn Albert,  Nick Bryan,  Susan Resnick,  Ilya Nasrallah,  Christos Davatzikos,  David Wolk, &quot;Disentangling Alzheimer’s disease neurodegeneration from typical brain ageing using machine learning.&quot; Brain Communications, 2022.'
 doi: 10.1093/braincomms/fcac117
-tags:
-  - magnetic resonance imaging
-  - positron emission tomography
-  - Alzheimer
-  - Baltimore Longitudinal Study of Aging
 ---
+
+### Abstract
 
 Neuroimaging biomarkers that distinguish between changes due to typical brain ageing and Alzheimer’s disease are valuable for determining how much each contributes to cognitive decline. Supervised machine learning models can derive multivariate patterns of brain change related to the two processes, including the Spatial Patterns of Atrophy for Recognition of Alzheimer’s Disease (SPARE-AD) and of Brain Aging (SPARE-BA) scores investigated herein. However, the substantial overlap between brain regions affected in the two processes confounds measuring them independently. We present a methodology, and associated results, towards disentangling the two.
 
