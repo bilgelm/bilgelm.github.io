@@ -5,7 +5,7 @@ permalink: /publication/2017-01-01-Excessive-daytime-sleepiness-napping-and-brai
 date: 2018-10-01
 venue: 'SLEEP'
 paperurl: https://doi.org/10.1093/sleep/zsy152
-citation: ' Adam Spira,  An Yang,  M Wu,  Eleanor Simonsick,  Murat Bilgel,  Dean Wong,  Susan Resnick, &quot;Excessive daytime sleepiness, napping, and brain amyloid in older adults.&quot; SLEEP, 2017.'
+citation: ' Adam Spira,  An Yang,  M Wu,  Eleanor Simonsick,  Murat Bilgel,  Dean Wong,  Susan Resnick, &quot;Excessive daytime sleepiness, napping, and brain amyloid in older adults.&quot; SLEEP, 2018.'
 doi: 10.1093/sleep/zsy152
 ---
 

@@ -2,7 +2,6 @@
 title: "A multivariate nonlinear mixed effects model for longitudinal image analysis: Application to amyloid imaging"
 collection: publications
 permalink: /publication/2016-01-01-A-multivariate-nonlinear-mixed-effects-model-for-longitudinal-image-analysis-Application-to-amyloid-imaging
-excerpt: '\{:PMCID:PMC4912927\}'
 date: 2016-01-01
 venue: 'NeuroImage'
 paperurl: 'http://dx.doi.org/10.1016/j.neuroimage.2016.04.001'
