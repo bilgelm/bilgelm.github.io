@@ -5,7 +5,7 @@ permalink: /publication/2023-01-31-Lower-myelin-content-is-associated-with-more-
 date: 2023-01-31
 venue: 'Alzheimer&apos;s and Dementia'
 paperurl: 'https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.12968'
-citation: 'Zhaoyuan Gong, Murat Bilgel, Matthew Kiely, Curtis Triebswetter, Luigi Ferrucci, Susan M. Resnick, Richard G. Spencer, Mustapha Bouhrara, &quot;Lower myelin content is associated with more rapid cognitive decline among cognitively unimpaired individuals.&quot Alzheimer&apos;s and Dementia, 2023.'
+citation: 'Zhaoyuan Gong, Murat Bilgel, Matthew Kiely, Curtis Triebswetter, Luigi Ferrucci, Susan M. Resnick, Richard G. Spencer, Mustapha Bouhrara, &quot;Lower myelin content is associated with more rapid cognitive decline among cognitively unimpaired individuals.&quot; Alzheimer&apos;s and Dementia, 2023.'
 doi: 10.1002/alz.12968
 ---
 
