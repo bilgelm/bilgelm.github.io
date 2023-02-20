@@ -5,7 +5,7 @@ permalink: /publication/2014-01-01-Trajectories-of-Alzheimer-disease-related-cog
 date: 2014-01-01
 venue: 'Alzheimer&apos;s &amp; Dementia'
 paperurl: 'http://www.ncbi.nlm.nih.gov/pubmed/25035155'
-citation: ' Murat Bilgel,  Yang An,  Andrew Lang,  Jerry Prince,  Luigi Ferrucci,  Bruno Jedynak,  Susan Resnick, &quot;Trajectories of Alzheimer disease-related cognitive measures in a longitudinal sample.&quot; Alzheimer&amp;apos;s &amp;amp; Dementia, 2014.'
+citation: ' Murat Bilgel,  Yang An,  Andrew Lang,  Jerry Prince,  Luigi Ferrucci,  Bruno Jedynak,  Susan Resnick, &quot;Trajectories of Alzheimer disease-related cognitive measures in a longitudinal sample.&quot; Alzheimer&apos;s &amp; Dementia, 2014.'
 doi: 10.1016/j.jalz.2014.04.520
 ---
 

@@ -5,7 +5,7 @@ permalink: /publication/2019-01-01-Predicting-time-to-dementia-using-a-quantitat
 date: 2019-01-01
 venue: 'Alzheimer&apos;s and Dementia: Diagnosis, Assessment and Disease Monitoring'
 paperurl: https://doi.org/10.1016/j.dadm.2019.01.005
-citation: ' Murat Bilgel,  Bruno Jedynak, &quot;Predicting time to dementia using a quantitative template of disease progression.&quot; Alzheimer&amp;apos;s and Dementia: Diagnosis, Assessment and Disease Monitoring, 2019.'
+citation: ' Murat Bilgel,  Bruno Jedynak, &quot;Predicting time to dementia using a quantitative template of disease progression.&quot; Alzheimer&apos;s and Dementia: Diagnosis, Assessment and Disease Monitoring, 2019.'
 doi: 10.1016/j.dadm.2019.01.005
 ---
 

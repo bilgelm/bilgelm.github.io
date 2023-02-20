@@ -5,7 +5,7 @@ permalink: /publication/2017-01-01-Temporal-order-of-Alzheimers-disease-related-
 date: 2017-01-01
 venue: 'Journal of Alzheimer&apos;s Disease'
 paperurl: https://doi.org/10.3233/jad-170448
-citation: ' M. Bilgel,  R.L. Koscik,  Y. An,  J.L. Prince,  S.M. Resnick,  S.C. Johnson,  B.M. Jedynak, &quot;Temporal order of Alzheimer&amp;apos;s disease-related cognitive marker changes in BLSA and WRAP longitudinal studies.&quot; Journal of Alzheimer&amp;apos;s Disease, 2017.'
+citation: ' M. Bilgel,  R.L. Koscik,  Y. An,  J.L. Prince,  S.M. Resnick,  S.C. Johnson,  B.M. Jedynak, &quot;Temporal order of Alzheimer&apos;s disease-related cognitive marker changes in BLSA and WRAP longitudinal studies.&quot; Journal of Alzheimer&apos;s Disease, 2017.'
 doi: 10.3233/JAD-170448
 ---
 
