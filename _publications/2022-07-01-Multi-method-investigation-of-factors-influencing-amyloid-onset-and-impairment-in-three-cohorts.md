@@ -5,7 +5,7 @@ permalink: /publication/2022-07-01-Multi-method-investigation-of-factors-influen
 date: 2022-07-01
 venue: 'Brain'
 paperurl: 'https://doi.org/10.1093/brain/awac213'
-citation: ' Tobey Betthauser,  Murat Bilgel,  Rebecca Koscik,  Bruno Jedynak,  Yang An,  Kristina Kellett,  Abhay Moghekar,  Erin Jonaitis,  Charles Stone,  Corinne Engelman,  Sanjay Asthana,  Bradley Christian,  Dean Wong,  Marilyn Albert,  Susan Resnick,  Sterling Johnson,  Alzheimer’s Disease Neuroimaging Initiative, &quot;Multi-method investigation of factors influencing amyloid onset and impairment in three cohorts.&quot; Brain, 2022.'
+citation: 'Tobey Betthauser,  Murat Bilgel,  Rebecca Koscik,  Bruno Jedynak,  Yang An,  Kristina Kellett,  Abhay Moghekar,  Erin Jonaitis,  Charles Stone,  Corinne Engelman,  Sanjay Asthana,  Bradley Christian,  Dean Wong,  Marilyn Albert,  Susan Resnick,  Sterling Johnson,  Alzheimer’s Disease Neuroimaging Initiative, &quot;Multi-method investigation of factors influencing amyloid onset and impairment in three cohorts.&quot; Brain, 2022.'
 doi: 10.1093/brain/awac213
 ---
 

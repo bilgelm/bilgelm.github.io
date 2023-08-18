@@ -1,5 +1,5 @@
 ---
-title: Longitudinal changes in Alzheimer's-related plasma biomarkers and brain amyloid
+title: "Longitudinal changes in Alzheimer&apos;s related plasma biomarkers and brain amyloid"
 collection: publications
 permalink: /publication/2023-05-22-Longitudinal-changes-in-Alzheimers-related-plasma-biomarkers-and-brain-amyloid
 date: 2023-05-22
