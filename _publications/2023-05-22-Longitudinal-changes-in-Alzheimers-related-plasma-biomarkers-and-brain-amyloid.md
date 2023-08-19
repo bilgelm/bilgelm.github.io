@@ -5,7 +5,7 @@ permalink: /publication/2023-05-22-Longitudinal-changes-in-Alzheimers-related-pl
 date: 2023-05-22
 venue: 'Alzheimer&apos;s and Dementia'
 paperurl: 'https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.13157'
-citation: 'Murat Bilgel, Yang An, Keenan A Walker, Abhay R Moghekar, Nicholas J Ashton, Przemysław R Kac, Thomas K Karikari, Kaj Blennow, Henrik Zetterberg, Bruno M Jedynak, Madhav Thambisetty, Luigi Ferrucci, Susan M Resnick, &quot;Longitudinal changes in Alzheimer's-related plasma biomarkers and brain amyloid.&quot; Alzheimer&apos;s and Dementia, 2023.'
+citation: 'Murat Bilgel, Yang An, Keenan A Walker, Abhay R Moghekar, Nicholas J Ashton, Przemyslaw R Kac, Thomas K Karikari, Kaj Blennow, Henrik Zetterberg, Bruno M Jedynak, Madhav Thambisetty, Luigi Ferrucci, Susan M Resnick, &quot;Longitudinal changes in Alzheimer&apos;s-related plasma biomarkers and brain amyloid.&quot; Alzheimer&apos;s and Dementia, 2023.'
 doi: 10.1002/alz.13157
 ---
 
