@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-![Murat Bilgel's wordcloud](../images/wordcloud.png "Murat Bilgel's wordcloud")
+<p style="text-align:right;font-weight:100;font-size:10px">
+<img src="../images/wordcloud.png" alt="Murat Bilgel's wordcloud">
+Wordcloud generated using
+<a href="https://bilgelm.shinyapps.io/abstract_wordcloud">
+Abstract Wordcloud </a>
+</p>
 
 My research focuses on understanding early brain changes in preclinical Alzheimer’s disease using neuroimaging methods, in particular, positron emission tomography (PET) scans of amyloid plaques and neurofibrillary tau tangles. I am interested in [quantifying the contribution of different neuropathologies to the propagation of brain changes among cognitively normal individuals](https://academic.oup.com/braincomms/article/4/4/fcac193/6649579) and ultimately, to cognitive decline. I design statistical models and methods for analyzing longitudinal neuroimaging and other biomarker data as well as cognitive measures to enable progress towards this goal.
 
